@@ -42,7 +42,7 @@ ul {
 }
 
 .dots {
-    background-image: url(/imgs/dots.png);
+    background-image: url(../imgs/dots.png);
     background-repeat: no-repeat;
     width: 204px;
     height: 186px;
@@ -235,11 +235,11 @@ ul {
 
     0%,
     100% {
-        background-image: url('/imgs/discount-background1.jpg');
+        background-image: url('../imgs/discount-background1.jpg');
     }
 
     50% {
-        background-image: url('/imgs/discount-background2.jpg');
+        background-image: url('../imgs/discount-background2.jpg');
     }
 }
 
@@ -1850,7 +1850,7 @@ header .container .main-links li .mega-menu .links li a i {
     padding-top: var(--main-padding);
     padding-bottom: var(--main-padding);
     position: relative;
-    background-image: url('/imgs/stats.jpg');
+    background-image: url('../imgs/stats.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -1968,7 +1968,7 @@ header .container .main-links li .mega-menu .links li a i {
 .discount .discount-contents .image {
     flex-basis: 50%;
     position: relative;
-    background-image: url('/imgs/discount-background1.jpg');
+    background-image: url('../imgs/discount-background1.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
